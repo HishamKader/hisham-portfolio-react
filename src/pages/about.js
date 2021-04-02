@@ -1,8 +1,7 @@
 import Nav from "../components/Navbar";
 import Foot from "../components/Footer";
 
-
-function Home() {
+function about() {
     
     return (
         <div>
@@ -14,4 +13,4 @@ function Home() {
 }
 
 
-export default Home;
+export default about;

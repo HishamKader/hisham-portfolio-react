@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+#back {
+  background-image: url("./background.jpg")!important;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
